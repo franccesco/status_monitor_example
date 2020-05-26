@@ -1,0 +1,4 @@
+https://httpstat.us/
+https://httpstat.us/500
+https://httpstat.us/400
+https://localhost/
